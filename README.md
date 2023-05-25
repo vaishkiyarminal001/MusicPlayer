@@ -1,6 +1,7 @@
 # MusicPlayer
 
 
+![Screenshot (835)](https://github.com/vaishkiyarminal001/MusicPlayer/assets/115460309/5c84fc43-eee0-4166-ba04-4d8d3b7570ac)
 
 
 This music player is a simple HTML, CSS, and JavaScript project that allows users to play, pause, and stop songs. The player has a progress bar that displays the current time of the song. The player can be customized to add more songs or to change the look and feel of the player.
